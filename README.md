@@ -79,4 +79,4 @@ Release candidates and versions within the approval process are found in the [IH
 
 [S-66 Facts about Electronic Charts and Carriage Requirements](https://github.com/KevinDickensIHO/ENCWGTest_Op1)
 
-[S-101 ENC Product Specification](https://github.com/KevinDickensIHO/ENCWGTest_Op1)
+[S-101 ENC Product Specification](https://github.com/KevinDickensIHO/S-101-Test)

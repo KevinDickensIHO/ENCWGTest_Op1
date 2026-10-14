@@ -35,11 +35,11 @@
   color: "bfdadc"
   description: "S-158:101"
 
-- name: "Feature Catalogue"
+- name: "FC"
   color: "bfdadc"
   description: "S-101 Feature Catalogue"
 
-- name: "Portrayal Catalogue"
+- name: "PC"
   color: "bfdadc"
   description: "S-101 Portrayal Catalogue"
 

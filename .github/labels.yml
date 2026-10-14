@@ -12,7 +12,7 @@
   description: "S-58"
 
 - name: "S-62"
-  color: "#00800"
+  color: "#008000"
   description: "S-62"
 
 - name: "S-63"
@@ -56,7 +56,7 @@
   description: "S-101 Feature Catalogue"
 
 - name: "PC"
-  color: "#FF535AA"
+  color: "#F535AA"
   description: "S-101 Portrayal Catalogue"
 
 - name: "Schema"

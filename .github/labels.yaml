@@ -1,0 +1,48 @@
+# .github/labels.yml
+- name: "S-52"
+  color: "d73a4a"
+  description: "S-52"
+
+- name: "S-57"
+  color: "a2eeef"
+  description: "S-57"
+
+- name: "S-58"
+  color: "0075ca"
+  description: "S-58"
+
+- name: "S-62"
+  color: "bfdadc"
+  description: "S-62"
+
+  - name: "S-63"
+  color: "bfdadc"
+  description: "S-63"
+
+  - name: "S-64"
+  color: "bfdadc"
+  description: "S-64"
+
+  - name: "S-65"
+  color: "bfdadc"
+  description: "S-65"
+
+  - name: "S-101"
+  color: "bfdadc"
+  description: "S-101"
+
+  - name: "S-158:101"
+  color: "bfdadc"
+  description: "S-158:101"
+
+  - name: "Feature Catalogue"
+  color: "bfdadc"
+  description: "S-101 Feature Catalogue"
+
+  - name: "Portrayal Catalogue"
+  color: "bfdadc"
+  description: "S-101 Portrayal Catalogue"
+
+  - name: "Documentation"
+  color: "bfdadc"
+  description: "Documentation"

@@ -4,7 +4,7 @@ This is a test repository for the ENCWG using Option 1 with issues managed at th
 # Issues
 All issues are managed in the root ENCWG repository (This repo) and must be submitted with appropriate flags for the product specification and the type of work
 
-All issues opened should contain no less than 2 labels.  On should be a product label and the second should be a document label.  This way everyone can see both the standard(s) impacted as well as the type of work being referenced.
+🔶🔶🔶 All issues opened should contain no less than 2 labels.  On should be a product label and the second should be a document label.  This way everyone can see both the standard(s) impacted as well as the type of work being referenced. 🔶🔶🔶
 
 ## Issue Labels
 This list of approved labels is located here:

@@ -48,15 +48,15 @@
   description: "Annex Updates"
 
 - name: "Data Model"
-  color: "C0C0C0"
+  color: "DEB887"
   description: "Issues impacting the UML data model"
 
 - name: "FC"
-  color: "#747170"
+  color: "#7FFF00"
   description: "S-101 Feature Catalogue"
 
 - name: "PC"
-  color: "#FF0080"
+  color: "#FF535AA"
   description: "S-101 Portrayal Catalogue"
 
 - name: "Schema"

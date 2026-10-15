@@ -62,3 +62,15 @@
 - name: "Schema"
   color: "#808000"
   description: "Schema adjusutments impacting the .xsd"
+
+- name: "Extension"
+  color: "#FF0000"
+  description: "Major changes"
+
+- name: "Correction"
+  color: "#FFFF00"
+  description: "Substantive changes"
+
+- name: "Clarification"
+  color: "#00008B"
+  description: "Non-substantive changes"

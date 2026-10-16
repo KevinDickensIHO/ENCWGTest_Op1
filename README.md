@@ -51,7 +51,7 @@ This list of approved labels is located here:
 🟦 Clarification | Non-substantive semantic changes that remove ambiguity, correct grammatical/spelling errors, or update cross-references.
 
 # IHO Portal
-Meetings, Mwmberships and related notes and documents are handled in the IHO Portal. (Free registration needed.)
+Meetings, Memberships and related notes and documents are handled in the IHO Portal. (Free registration needed.)
 
 [IHO PORTAL](https://portal.iho.int)
 
